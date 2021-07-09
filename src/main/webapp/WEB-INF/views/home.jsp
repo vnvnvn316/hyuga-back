@@ -3,6 +3,7 @@
 <html>
 <head>
 	<title>Home</title>
+	<meta charset="UTF-8" />
 </head>
 <body>
 <h1>
@@ -11,5 +12,6 @@
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
+<P>커밋 테스트입니다.</P>
 </body>
 </html>
